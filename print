@@ -1,0 +1,5 @@
+tet = ['a', 'b', 'c']
+number = 1
+for x in tet:
+  print(number, x)
+  number = number + 1
